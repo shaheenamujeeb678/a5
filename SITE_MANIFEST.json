@@ -1,0 +1,207 @@
+{
+  "domain": "minuterepeater",
+  "niche": "Haute Horlogerie & Minute Repeater Grand Complications",
+  "design_concept": "Warm Sepia & Roasted Timber Atelier",
+  "archetype_id": "sepia_timber",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "minuterepeater_asset_59.jpg",
+      "size_kb": 133.57,
+      "md5": "8bac73e9b67fc79f97c4bcd0b2c3412e",
+      "description": "detail of heuer calculator watch p5",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "minuterepeater_asset_60.jpg",
+      "size_kb": 124.63,
+      "md5": "8869162184170c1af8dc31d76a5a65be",
+      "description": "helium escape or release valve on",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "minuterepeater_asset_61.jpg",
+      "size_kb": 163.05,
+      "md5": "4736166c7f1cf0ff98138ba08b414662",
+      "description": "omega seamaster chronograph watch",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "minuterepeater_asset_62.jpg",
+      "size_kb": 150.89,
+      "md5": "1d5870da35be4e67a7d9196a4d6309d3",
+      "description": "omega seamaster chronograph watch",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "minuterepeater_asset_63.jpg",
+      "size_kb": 79.94,
+      "md5": "d38e7b03baf953d27f4fb543104f89e8",
+      "description": "part of calculation scale on heuer",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "minuterepeater_asset_64.jpg",
+      "size_kb": 132.93,
+      "md5": "5e9d4fe2d22c547df43a797f0135733a",
+      "description": "watch crown and one of the chronogr",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "minuterepeater_asset_65.jpg",
+      "size_kb": 140.24,
+      "md5": "53034bcf922f8ecf24d47f00064e82e2",
+      "description": "before and after comparison of phot",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "minuterepeater_asset_66.jpg",
+      "size_kb": 179.31,
+      "md5": "c58b9093b9581879232cdaec71a7d322",
+      "description": "chronoswiss chronographs",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "minuterepeater_asset_67.jpg",
+      "size_kb": 134.22,
+      "md5": "8c8c1104f6917f8e7e0f1d1b75fa7ef3",
+      "description": "crown and chronograph pushers of a",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "minuterepeater_asset_68.jpg",
+      "size_kb": 106.41,
+      "md5": "84acaff242158538c29d7003d7adcc33",
+      "description": "crown and chronograph pushers of a",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "minuterepeater_asset_69.jpg",
+      "size_kb": 186.02,
+      "md5": "b4cf151750e617e0f9e3b10babc01770",
+      "description": "damasko dc56 german analog chrono",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "minuterepeater_asset_70.jpg",
+      "size_kb": 75.1,
+      "md5": "e2b9fcdf41a1f410495558082481a9d3",
+      "description": "daytona6239movement",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "minuterepeater_asset_71.jpg",
+      "size_kb": 101.27,
+      "md5": "c60154a9d6553a8d6be6b7e097049b04",
+      "description": "detailed view of rolex daytona chro",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "minuterepeater_asset_72.jpg",
+      "size_kb": 156.5,
+      "md5": "2d25e9e139010f5febcbb72f04eed663",
+      "description": "detailed view on chronograph pusher",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "minuterepeater_asset_73.jpg",
+      "size_kb": 103.62,
+      "md5": "76b07042165024b67b28aefa27abb854",
+      "description": "detailed view on chronograph pusher",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "minuterepeater_asset_74.jpg",
+      "size_kb": 84.41,
+      "md5": "f709d791f3b9862bc6605771023759da",
+      "description": "detailed view on crown and pushers",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "minuterepeater_asset_75.jpg",
+      "size_kb": 181.73,
+      "md5": "c792cd3e6b054447ecdddd05aa540c85",
+      "description": "illegally copied wristwatch which s",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "minuterepeater_asset_76.jpg",
+      "size_kb": 184.68,
+      "md5": "c5acc5b1442970cdc424dae2b97f4087",
+      "description": "mechanical diver s chronograph watc",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "minuterepeater_asset_77.jpg",
+      "size_kb": 41.37,
+      "md5": "949963da35ecc4c2162b185b5e7c13bc",
+      "description": "two sub dials of rolex daytona chro",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "minuterepeater_asset_78.jpg",
+      "size_kb": 116.89,
+      "md5": "dbba2c07ce2a02903c208f99ad60cdca",
+      "description": "watchpayer original appraiser photo",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://minuterepeater.com/sitemap.xml",
+    "robots": "https://minuterepeater.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
